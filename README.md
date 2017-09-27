@@ -1,12 +1,6 @@
 # Set-LineNumber
 You can use this function to set a lines for a file by easy and detailed parameters
 <br />Vist Script in <a href="https://www.powershellgallery.com/packages/Set-LineNumber/1.0/DisplayScript">PowerShellGallery.com</a><br />
-
-
-| Inspect to save script  | Install Script |
-| ------------- | ------------- |
-| Save-Script -Name Set-LineNumber -Path  | PS> Install-Script -Name Set-LineNumber  |
-
 #### Examles:
 ```powershell
 PS C:\> Set-LineNumber -Path "D:\test.txt"
